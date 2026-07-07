@@ -1,11 +1,11 @@
 # Hi, I'm Heewon Jung.
 
-Computer Engineering Student at Hongik University
+- 🎒 홍익대학교 공과대학 컴퓨터공학과 4학년
+- 📝 Blog: [heewonjung2](https://blog.naver.com/heewonjung2)
 
 I'm interested in
 
 - 🤖 Artificial Intelligence
-- 👁️ Computer Vision
 - 📊 Data Analysis
 
 ---
