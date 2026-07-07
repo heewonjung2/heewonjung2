@@ -26,4 +26,3 @@ I'm interested in
 
 - Computer Vision Image Preprocessing
 - AI Portfolio
-- Information Processing Engineer
