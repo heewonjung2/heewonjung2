@@ -22,7 +22,7 @@ I'm interested in
 
 ---
 
-## 📌 Current Projects
+## 📌 Currently Working On...
 
 - Computer Vision Image Preprocessing
 - AI Portfolio
