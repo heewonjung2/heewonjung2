@@ -24,5 +24,5 @@ I'm interested in
 
 ## 📌 Currently Working On...
 
-- Computer Vision Image Preprocessing
+- Computer Vision AI modeling
 - AI Portfolio
