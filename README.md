@@ -57,4 +57,4 @@ A collection of projects covering the computer vision pipeline, from image prepr
 ---
 
 ## 📝 **Blog**  
-https://heewonjung2.github.io/
+[https://heewonjung2.github.io/](https://blog.naver.com/heewonjung2)
