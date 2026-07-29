@@ -18,18 +18,6 @@ AI & Computer Vision
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🌸 **Computer Vision Projects** | Collection of Computer Vision & Multimodal AI projects |
-| 🌼 **Flower Image Validator** | Streamlit + OpenAI Vision API based flower image validation |
-| 🎯 **Flower Object Detection** | YOLO-based flower detection |
-| 🖼️ **Computer Vision Preprocessing** | Image preprocessing using OpenCV |
-| 📍 **Computer Vision Depth Map** | Depth estimation project |
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
@@ -69,14 +57,6 @@ AI & Computer Vision
 A collection of projects covering the computer vision pipeline, from image preprocessing to multimodal AI applications.
 
 ➡️ **https://github.com/heewonjung2/computer-vision-projects**
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=heewonjung2&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=heewonjung2&layout=compact)
 
 ---
 
