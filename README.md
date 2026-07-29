@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heewon Jung</h1>
 
-<h3 align="center">
-AI & Computer Vision
-</h3>
-
 ---
 
 ## 🙋 About Me
