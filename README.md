@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heewon Jung</h1>
+
+---
+
 ## 🙋 About Me
 
 🎓 **홍익대학교 컴퓨터공학과 4학년**
