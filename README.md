@@ -115,7 +115,7 @@
 
 **AI / Data · IT / DX · Digital Service Planning · Frontend / App Development**
 
-기술 자체보다, 기술을 활용해 **실제 업무와 사용자 경험을 개선하는 과정**에 관심이 있습니다.
+기술을 활용해 **실제 업무와 사용자 경험을 개선하는 과정**에 관심이 있습니다.
 
 ---
 
