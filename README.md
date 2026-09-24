@@ -18,7 +18,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 Health Center Self Check-in & Admin System
+### 🏥 Health-In: Health Center Self Check-in & Admin System
 > 교내 건강진료센터의 수기 접수·반복 입력 과정을 개선하기 위해 만든 **내부망 기반 셀프 접수 및 관리자 시스템**
 
 - 방문자 태블릿 · 근로학생 PC · 간호사 PC가 하나의 서버 데이터를 공유하도록 구성
@@ -32,7 +32,7 @@
 
 ---
 
-### 🌸 Flower Platform — Graduation Project
+### 🌸 꽃동네: Graduation Project
 > 주변 꽃집 탐색부터 AI 추천까지 연결하는 **Flutter 기반 플라워 플랫폼**
 
 - 팀장으로 기획, UI/UX, 일정 조율 및 **Flutter 프론트엔드** 담당
