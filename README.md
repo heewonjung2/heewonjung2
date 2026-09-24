@@ -108,7 +108,6 @@
 
 - **정보처리기사** — Engineer Information Processing
 - **SQLD** — SQL Developer
-- **한국사능력검정시험 1급**
 
 ---
 
