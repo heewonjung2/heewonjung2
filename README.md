@@ -33,7 +33,7 @@
 
 ## 🚀 Featured Projects
 
-### 🌷 꽃동네 | AI Flower Shop Platform
+### 🌷 [꽃동네 | AI Flower Shop Platform](https://kkotdongnae.nemanic.dev/#/home)
 **Flutter · Django REST · PostgreSQL · AI Agent**
 
 주변 꽃집 탐색부터 추천, 상품 이미지 생성까지 연결하는  
