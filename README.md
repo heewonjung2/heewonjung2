@@ -57,12 +57,14 @@
 약 147만 건의 데이터를 활용해  
 **예측 모델 성능을 반복적으로 개선한 머신러닝 프로젝트**
 
-- CatBoost 기반 개인 모델 설계 및 성능 개선
-- 주요 변수 및 인코딩 방식 재검토
-- Isotonic Calibration을 활용한 예측 확률 보정 실험
-- 반복 실험 자동화를 통해 모델 개선 속도 향상
-- 팀 모델 간 예측 상관관계를 분석해 앙상블 제안
-- 최종 **1,090팀 중 238위**
+**최종 1,090팀 중 238위**
+
+---
+
+### 🎙️ [AI Interview Simulator](https://github.com/heewonjung2/korail-findeet-interview)
+**React · Vite · Express · GPT-4o-mini**
+
+음성 답변, AI 꼬리질문 및 답변 평가를 지원하는 AI 면접 연습 서비스
 
 ---
 
@@ -103,11 +105,10 @@
 
 ## 📜 Certifications
 
-- **Engineer Information Processing**
-- **SQL Developer (SQLD)**
-- **Korean History Proficiency Test — Level 1**
-- **TOEIC 860**
-- **TOEIC Speaking IH**
+- **정보처리기사**
+- **SQL 개발자(SQLD)**
+- **한국사능력검정시험 1급**
+- **토익스피킹 IH**
 
 ---
 
