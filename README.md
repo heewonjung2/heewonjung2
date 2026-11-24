@@ -1,17 +1,28 @@
 <h1 align="center">Hi 👋, I'm Heewon Jung</h1>
 
 <p align="center">
-  Computer Engineering Student · DX / AI & Data / Service Development
+  KORAIL AI Intern · Computer Engineering · AI & Workflow Automation
 </p>
 
 ---
 
 ## 🙋 About Me
 
-🎓 **Hongik University, Computer Engineering**  
-💡 사용자의 불편을 발견하고, 기술을 활용해 실제 서비스로 개선하는 과정에 관심이 있습니다.  
-📱 Flutter 기반 서비스 개발부터 AI·데이터 분석, 시스템 기획까지 다양한 프로젝트를 경험했습니다.  
-🤝 팀 프로젝트에서는 기획, UI/UX, 개발뿐 아니라 일정 조율과 협업을 함께 담당해왔습니다.
+🎓 **Hongik University | Computer Engineering** (Expected graduation: Feb. 2027)  
+🚆 **KORAIL | AI Intern** (Nov. 2026 – Present)  
+💡 반복 업무와 서비스 이용 과정에서 발생하는 문제를 분석하고, 소프트웨어와 AI를 활용해 개선하는 데 관심이 있습니다.  
+🛠️ 업무 자동화, 데이터 처리, AI 서비스 개발을 중심으로 프로젝트를 진행하고 있습니다.
+
+---
+
+## 💼 Experience
+
+### KORAIL | 한국철도공사 AI 체험형 인턴
+**2026.11 – Present | 시흥철도차량정비단 · 경영인사팀**
+
+- 행정 업무 프로세스 분석 및 반복 업무 자동화 방안 검토
+- 엑셀 기반 초과근무 자료 취합 및 문서 작성 업무의 자동화 기획
+- 생성형 AI를 활용한 업무 효율화 방안 탐색
 
 ---
 
@@ -35,22 +46,24 @@
 - 지도 기반 주변 꽃집 탐색 및 상세 정보 화면 구현
 - 꽃집·식물 데이터를 활용한 AI 추천 기능 기획
 - AI Agent를 활용한 꽃집 추천 / 식물 정보 / 이미지 생성 기능 설계
-- 팀장으로서 기획, 프론트엔드, API 협의 및 일정 조율 담당
+- 3인 팀의 팀장으로서 기획, 프론트엔드, API 규격 협의 및 일정 조율 담당
+- 전국 17,769개 꽃집 데이터 기반 서비스 구축
+- AI Agent Tool Calling을 위한 위치·검색 API 규격 협의
+- 졸업 프로젝트 1학기 평가 **A+**
 
 ---
 
 ### 🏥 Health Center Self Check-in System
-**Node.js · SQLite · HTML/CSS/JavaScript**
+**React · Node.js · SQLite · JavaScript**
 
 교내 건강진료센터의 종이 접수 과정을 디지털화한  
 **현장 운영형 셀프 접수 시스템**
 
-- 방문자용 태블릿 셀프 접수 화면 구현
-- 근로학생 PC와 간호사 PC가 동일 데이터를 조회하도록 서버 구조 구성
-- SQLite 기반 접수 기록 관리
-- 내부망 환경에서 TLS 인증서 적용 및 다기기 접속 테스트
-- 종이 접수 및 재입력 업무 제거를 통한 운영 프로세스 개선
-- 실제 사용자 피드백을 반영해 입력 조건 및 관리자 기능 개선
+- React 기반 셀프 접수 및 관리자 화면 개발·운영
+- 종이 접수 기록 재입력으로 발생하던 주 2회 이상 잔업 제거
+- 이용자 만족도 조사 71명 전원 만족(아주 만족 65명, 만족 6명)
+- Node.js 및 SQLite 기반 중앙 서버 전환 구조 설계
+- 내부망 TLS 적용 및 3대 기기 동시 접속 테스트
 
 ---
 
@@ -80,6 +93,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -107,12 +121,15 @@
 
 - **Engineer Information Processing**
 - **SQL Developer (SQLD)**
+- **Korean History Proficiency Test — Level 1**
+- **TOEIC 860**
 - **TOEIC Speaking IH**
 
 ---
 
 ## 📌 Experience Highlights
 
+- 🚆 **KORAIL AI Internship** — Workflow Automation
 - 🏆 **LG Aimers Hackathon** — 238 / 1,090 teams
 - 🌷 **Graduation Project Team Leader** — AI Flower Shop Platform
 - 🏥 **Health Center Digital Transformation Project**
